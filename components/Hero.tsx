@@ -30,7 +30,7 @@ const Hero = () => {
    />
 
    <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-   Hi,I am Megha ,a Nextjs devloper
+   I am Megha,a Nextjs devloper
    </p>
 
    <a href="#about">

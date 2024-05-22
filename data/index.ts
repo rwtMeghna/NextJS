@@ -76,7 +76,7 @@ export const navItems = [
       des: "hashtag#QKart hashtag#NodeJS hashtag#RESTAPI hashtag#Authentication hashtag#Testing hashtag#MERN",
       img: "/q_kart.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://qkartshoppingforme.netlify.app/",
+      link: "https://qonlineshopping.netlify.app/",
     },
     {
       id: 2,
