@@ -30,7 +30,7 @@ const Hero = () => {
    />
 
    <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-  Welcome , I am Megha,<br/> a Full Stack developer
+  Welcome I am Megha,<br/>  Full Stack developer
    </p>
 
    <a href="#about">
